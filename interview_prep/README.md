@@ -1,2 +1,0 @@
-# Codility
-Codility Problems Solutions.
